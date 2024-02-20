@@ -48,6 +48,10 @@ nav ul li a{
     height: auto;
 }
 
+.grimoire {
+    width: 20rem;
+    height: auto;
+}
 header {
     text-align: center;
     margin: 3rem;
@@ -67,6 +71,12 @@ main {
 h2 {
     text-align: center;
     font-size: 4rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 10rem;
+    padding-top: 5rem;
 }
 
 form{
@@ -93,6 +103,15 @@ form input.email {
     width: 75%;
     background-color: var(--color-font);
     border-radius: 10px;
+    margin: 1.5rem;
+    color: rgba(14,14,14,1);
+}
+
+form input.pwd {
+    width: 75%;
+    background-color: var(--color-font);
+    border-radius: 10px;
+    margin: 1.5rem;
     color: rgba(14,14,14,1);
 }
 
@@ -104,6 +123,16 @@ form input.start {
     font-family: 'Jolly Lodger', Regular;
     width: 24%;
     padding: 1rem;
+    margin-bottom: 5rem;
+    color: rgba(14,14,14,1);
+}
+
+form input.start_mid {
+    background-color: var(--color-border);
+    border: 0.2rem solid;
+    border-radius: 10px;
+    font-size: 2.5rem;
+    width: 34%;
     margin-bottom: 5rem;
     color: rgba(14,14,14,1);
 }
@@ -133,7 +162,6 @@ form input.valider {
 section.description{
     margin-left: auto;
     margin-right: auto;
-    display: block;
     border-radius: 10px;
     background-color: var(--color-border);
     border: 0.2rem solid var(--color-border);
@@ -156,14 +184,9 @@ li{
 
 footer {
     text-align: center;
-    margin-right: 15%;
     padding: 5rem;
 }
 
 footer p {
     font-size: 2.8rem;
-}
-
-footer p img {
-    vertical-align: left;
 }
