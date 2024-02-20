@@ -1,7 +1,7 @@
 # Proj-cinéma d'horreur
 
 # <font color="orange">Projet Streaming Horreur</font>
-https://lusegar.github.io/Proj-cin-/films.html
+https://lusegar.github.io/Proj-cin-/index.html
 
 >Palette couleur du projet
 ![cover](https://github.com/Lusegar/Proj-cin-/blob/main/asset/palette_cine.pdf)
