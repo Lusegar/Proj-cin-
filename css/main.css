@@ -41,6 +41,8 @@ nav ul li a{
     color: var(--color-font);
     font-size: 3rem;
     text-decoration: none;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--color-border);
 }
 
 .logo {
@@ -77,6 +79,8 @@ h3 {
     text-align: center;
     font-size: 10rem;
     padding-top: 5rem;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: var(--color-border);
 }
 
 form{
