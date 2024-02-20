@@ -1,7 +1,9 @@
-# Proj-cin-
+# Proj-cinéma d'horreur
+
 # <font color="orange">Projet Streaming Horreur</font>
-# <font color="orange">Lien direct</font>
-https://lusegar.github.io/Projet_New_York/
+https://lusegar.github.io/Proj-cin-/films.html
+
 >Palette couleur du projet
-![cover](asset/palette_cine.pdf)
->Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application ♿️
+![cover](https://github.com/Lusegar/Proj-cin-/blob/main/asset/palette_cine.pdf)
+
+>Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application
