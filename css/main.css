@@ -1,0 +1,169 @@
+@import url('./reset.css');
+
+:root{
+    --color-primary:rgba(14,14,14,1);
+    --color-font: rgba(255,255,255,1);
+    --color-border:  rgba(212,6,6,1);
+}
+
+body {
+    background-color: var(--color-primary);
+    color: var(--color-font);
+    font-family: 'Jolly Lodger', Regular;
+    border: 0.1rem solid var(--color-border);
+}
+
+section.top{
+    display: block;
+    background-color: var(--color-primary);
+    border: 0.2rem solid var(--color-border);
+    width: 100%;
+}
+
+section.top p{
+    text-align: left;
+    margin: 0.5rem;
+    font-size: 3.5rem;
+    color: var(--color-border);
+}
+
+nav {
+    padding: 1rem;
+    margin-left: 5rem;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 1rem;
+}
+
+nav ul li a{
+    color: var(--color-nav);
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.logo {
+    width: 10rem;
+    height: auto;
+}
+
+header {
+    text-align: center;
+    margin: 3rem;
+    margin-bottom: 10rem;
+}
+
+header h1 {
+    font-size: 7rem;
+}
+
+main {
+    max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+form{
+    margin: 5rem 0;
+    width: 100%;
+}
+
+form label{
+    display: block;
+    font-size: 2.6rem;
+}
+
+form input{
+    background-color: rgba(0,0,0,0);
+    border: 0.2rem solid var(--color-primary);
+    font-family: 'Jolly Lodger', Regular;
+    width: 100%;
+    padding: 1rem;
+    color: var(--color-font-secondary);
+    font-size: 2.5rem;
+}
+
+form input.email {
+    width: 75%;
+    background-color: var(--color-font);
+    border-radius: 10px;
+    color: rgba(14,14,14,1);
+}
+
+form input.start {
+    background-color: var(--color-border);
+    border: 0.2rem solid;
+    border-radius: 10px;
+    font-size: 2.5rem;
+    font-family: 'Jolly Lodger', Regular;
+    width: 24%;
+    padding: 1rem;
+    margin-bottom: 5rem;
+    color: rgba(14,14,14,1);
+}
+
+form select {
+    background-color: rgba(0,0,0,0);
+    border: 0.2rem solid var(--color-border);
+    font-family: 'Jolly Lodger', Regular;
+    width: 100%;
+    padding: 1rem;
+    color: var(--color-font-secondary);
+    font-size: 2.5rem;
+}
+
+form input.valider {
+    background-color: var(--color-font);
+    border: 0.2rem solid var(--color-font);
+    font-size: 2.5rem;
+    font-family: 'Jolly Lodger', Regular;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 1rem;
+    color: #fff;
+}
+
+section.description{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+    background-color: var(--color-border);
+    border: 0.2rem solid var(--color-border);
+    width: 100%;
+}
+
+section form{
+    text-align: center;
+}
+
+section p{
+    text-align: center;
+    margin: 3rem 0;
+    font-size: 3.5rem;
+}
+
+li{
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    margin-right: 15%;
+    padding: 5rem;
+}
+
+footer p {
+    font-size: 2.8rem;
+}
+
+footer p img {
+    vertical-align: left;
+}
