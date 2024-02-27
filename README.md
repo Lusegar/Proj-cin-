@@ -10,3 +10,5 @@
 >Pour acceder a la palette couleur cliquer ici -> ![cover](https://github.com/Lusegar/Proj-cin-/blob/main/asset/palette_cine.pdf)
 
 >Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application
+
+> &copy;  [Lucas SEGGAR] - All rights reserved for educational purposes only
