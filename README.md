@@ -7,7 +7,7 @@
 
 >![Accueil](./asset/Accueiltest.jpg)
 
->Rejoignez nous en cliquant ici : ![streaming]https://lusegar.github.io/Proj-cin-/index.html
+>Rejoignez nous en cliquant ici : ![streaming](https://lusegar.github.io/Proj-cin-/index.html)
 
 # Palette couleur du projet
 
