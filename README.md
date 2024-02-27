@@ -6,10 +6,11 @@
 
 >Lien direct vers la page d'accueil du site : https://lusegar.github.io/Proj-cin-/index.html
 
->Palette couleur du projet
-![cover](https://www.codeur.com/blog/wp-content/uploads/2017/05/palettes-couleurs.jpg)
+# Palette couleur du projet
 
->Pour acceder a la palette couleur cliquer ici -> ![cover](https://github.com/Lusegar/Proj-cin-/blob/main/asset/palette_cine.pdf)
+>![cover](https://www.codeur.com/blog/wp-content/uploads/2017/05/palettes-couleurs.jpg)
+
+>Pour acceder a la palette couleur cliquer ici -> ![Palette](https://github.com/Lusegar/Proj-cin-/blob/main/asset/palette_cine.pdf)
 
 >Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application
 
