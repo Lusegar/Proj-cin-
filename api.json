@@ -1,0 +1,19 @@
+{
+    
+    "films": [
+        {
+            "nom": "Us",
+            "annee": "2019",
+            "realisateur": "Jordan Peele",
+            "description": " Us ou Nous au Québec est un film d'horreur américain écrit, produit et réalisé par Jordan Peele et sorti en 2019.",
+            "image": "./asset/us.jpg"
+        },
+        {
+            "nom": "Sinister",
+            "annee": "2012",
+            "realisateur": "Scott Derrickson ",
+            "description": " Un écrivain passionné de récits criminels (Ethan Hawke), en mal d'inspiration pour trouver son prochain sujet, emménage avec sa famille dans une maison où a eu lieu l’épouvantable assassinat d’une famille entière. Il découvre dans le grenier de la maison une boîte contenant un projecteur et des bobines de pellicule Super 8 sur lesquelles ce meurtre, ainsi que plusieurs autres, ont été filmés.",
+            "image": "./asset/us.jpg"
+        }
+    ]
+}
