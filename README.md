@@ -9,9 +9,7 @@
 
 # Palette couleur du projet
 
->![cover](https://www.codeur.com/blog/wp-content/uploads/2017/05/palettes-couleurs.jpg)
-
->Pour acceder a la palette couleur cliquer ici -> ![Palette](./asset/palette_cine_page-0001.jpg)
+>![Palette_couleur](./asset/palette_cine_page-0001.jpg)
 
 >Projet initial pour apprendre les bonnes pratiques et rendre performante &amp; inclusive une application
 
