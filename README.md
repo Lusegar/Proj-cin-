@@ -5,7 +5,7 @@
 >
 > Le projet proposé est donc un service de streaming qui propose une grande variété de séries TV primées, de films d'horreurs et plus encore sur des milliers d’appareils connectés à Internet. Vous pouvez regarder autant que vous le souhaitez, quand vous le souhaitez, sans aucune publicité. Il y a toujours quelque chose de nouveau à découvrir, et de nouvelles séries TV et films sont ajoutés chaque semaine !
 
->Lien direct vers la page d'accueil du site : https://lusegar.github.io/Proj-cin-/index.html
+>Rejoignez nous en cliquant ici : https://lusegar.github.io/Proj-cin-/index.html
 
 # Palette couleur du projet
 
