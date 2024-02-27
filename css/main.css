@@ -83,6 +83,22 @@ h3 {
     -webkit-text-stroke-color: var(--color-border);
 }
 
+h4 {
+    text-align: left;
+    font-size: 5rem;
+    padding-top: 2rem;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: var(--color-border);
+}
+
+.tv {
+    width: 22rem;
+    height: auto;
+    border-radius: 10px;
+    float: right;
+    display: inline;
+}
+
 form{
     margin: 5rem 0;
     width: 100%;
@@ -116,7 +132,7 @@ form input.start {
     border: 0.2rem solid;
     border-radius: 10px;
     font-size: 2.5rem;
-    width: 24%;
+    width: 20%;
     padding: 1rem;
     margin-bottom: 5rem;
     color: rgba(14,14,14,1);
@@ -151,7 +167,9 @@ form input.valider {
     padding: 1rem;
     color: #fff;
 }
-
+section div p{
+    text-align: left;
+}
 section.description{
     margin-left: auto;
     margin-right: auto;
@@ -159,6 +177,27 @@ section.description{
     background-color: var(--color-border);
     border: 0.2rem solid var(--color-border);
     width: 100%;
+}
+
+section.galerie p{
+    text-align: left;
+    font-size: 5rem;
+    padding-top: 15rem;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: var(--color-border);
+}
+
+.grid { 
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0.5rem;
+    align-items:stretch;
+    justify-items: center;
+}
+
+.grid img {
+    max-width: 90%;
+    max-height: 85%;
 }
 
 section img{
@@ -177,6 +216,11 @@ section p{
 
 li{
     display: inline-block;
+}
+
+.blo2{
+    margin-left: auto;
+    display: block;
 }
 
 footer {
