@@ -127,7 +127,7 @@ form input.email {
     color: rgba(14,14,14,1);
 }
 
-form input.start {
+form a.start {
     background-color: var(--color-border);
     border: 0.2rem solid;
     border-radius: 10px;
